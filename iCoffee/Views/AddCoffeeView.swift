@@ -39,7 +39,7 @@ struct AddCoffeeView: View {
                 Button(action: {
                     showAddDrink.toggle()
                 }, label: {
-                    Text("Hinzufügen")
+                    Text("Hindzufügen")
                 })
             }
 
